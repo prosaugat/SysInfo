@@ -3,5 +3,4 @@ This Perl script collects and displays detailed system and network information f
 
 ## Usage
 
-1. Clone the repository or download the Perl script:
-   git clone
+1. Clone the repository or download the Perl script.
